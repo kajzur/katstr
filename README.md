@@ -1,0 +1,4 @@
+katstr
+======
+
+Projekt katalogu stron.
